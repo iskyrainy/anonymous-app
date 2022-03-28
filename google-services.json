@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760748626904",
+    "firebase_url": "https://anonybbs-a8fe5-default-rtdb.firebaseio.com",
+    "project_id": "anonybbs-a8fe5",
+    "storage_bucket": "anonybbs-a8fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760748626904:android:cc9f330dc8034ed88d98ad",
+        "android_client_info": {
+          "package_name": "com.dhu.anonybbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760748626904-m4625vf55gr1bgjqidmcukf3ddr1gueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrixyOk35QxCJsDjqQuAR6mLL-6oSRkK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760748626904-m4625vf55gr1bgjqidmcukf3ddr1gueg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anony</string>
+    <string name="pwd">密码</string>
+    <string name="email">邮箱</string>
+    <string name="error1">请检查邮箱地址</string>
+    <string name="error2">密码至少需要8位</string>
+    <string name="text_label_1">主页</string>
+    <string name="text_label_2">个人中心</string>
+</resources>
